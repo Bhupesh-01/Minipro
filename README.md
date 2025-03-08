@@ -1,4 +1,10 @@
 # Minipro
 This project is for understanding of frontend and backend having database connection..
 
-[![Github](https://img.shields.io/badge/Github-Bhupesh-0/Mjnipro%23181717?style=flat&logo=github&logoColor=white)](https://github.com/Bhupesh-01/Minipro)
+[![Tools](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8FMinipro-used%20tools%3A-in)](https://github.com/Bhupesh-01/Minipro)
+
+[![Sublime text]( https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://github.com/Bhupesh-01/Minipro)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Bhupesh-01/Minipro)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white )](https://github.com/Bhupesh-01/Minipro)
+![Used server Apache](https://img.shields.io/badge/Server%20>-Apache-red?style=flat&logo=apache)
+
